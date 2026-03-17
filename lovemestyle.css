@@ -94,24 +94,13 @@ body {
 .gif-result {
   border-radius: 10px;
   margin-bottom: 2rem;
-  width: 100%;
-  max-width: 300px;
-  border-radius: 10px;
-  
-}
-
-.gif-result2{
-  border-radius: 10px;
-  margin-bottom: 2rem;
-  width: 100%;
-  max-width: 300px;
-  border-radius: 10px;
-
   
   
 }
+
+
 .result-container h2 {
-  font-size: 4.2rem;
+  font-size: 3.2rem;
   text-align: center;
 }
 
